@@ -4,4 +4,3 @@ for alfa in range(97, 123):
         continue
     else:
         print('{:c}'.format(alfa), end='')
-        
