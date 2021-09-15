@@ -1,4 +1,4 @@
-[*] Size of the Python List = 2
+([*] Size of the Python List = 2
 [*] Allocated = 2
 Element 0: str
 Element 1: str
